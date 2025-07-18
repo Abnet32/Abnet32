@@ -17,7 +17,7 @@
 - 👋 Hi, I’m ✨ Abnet Mekonen ✨
 - 🌱 I’m Fullstack web developer..
 - 👀 I’m interested in Fullstack development and AI engineering..
-- 💬 Ask me about my experience with Html, css, JavaScript, React, Node.js, Express.js, MySQL..
+- 💬 Ask me about my experience with Html, css, JavaScript, Typescript, React, Node.js, python, Express.js, MySQL, MongoDB..
 - ⚡ Fact: I love descipline and hard work.
 - 👨‍💻 As a software engineer, I'm constantly learning and exploring new technologies to improve my skills.
 - 📫 if you are looking to reach me just contact me on whatsapp or linkedin you get in my profile...
