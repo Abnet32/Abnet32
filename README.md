@@ -10,9 +10,10 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7C81A&width=435&lines=Hello%2C+I'm+Abnet+Mekonen++;Full-satck+Developer;Software+Enginner;Constant+Learner)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=josefin+sans&weight=900&pause=1000&color=F3F007E9&background=1EB8DC00&width=450&height=75&lines=Hello%2CI'm+Abnet+Mekonen;Full-stack+Developer;Software+Engineer;Constant+Learner" alt="Typing SVG" /></a>
 </p> 
-
+<p align="center">
+ 
 - 👋 Hi, I’m ✨ Abnet Mekonen ✨
 - 🌱 I’m Fullstack web developer..
 - 👀 I’m interested in Fullstack development and AI engineering..
@@ -20,6 +21,9 @@
 - ⚡ Fact: I love descipline and hard work.
 - 👨‍💻 As a software engineer, I'm constantly learning and exploring new technologies to improve my skills.
 - 📫 if you are looking to reach me just contact me on whatsapp or linkedin you get in my profile...
+</p>
+
+
 ### 💻 My Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
