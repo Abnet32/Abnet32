@@ -1,4 +1,4 @@
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=5FF71A&width=450&height=70&lines=Welcome+to+Abnet+Mekonen's+profile)](https://git.io/typing-svg) 
+Hey,Welcome👋
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7C81A&width=435&lines=Hello%2C+I'm+Abnet+Mekonen++;Full-satck+Developer;Software+Enginner;Constant+Learner)](https://git.io/typing-svg)
 - 👋 Hi, I’m Abnet Mekonen
 - 👀 I’m interested in Fullstack development and AI engineering..
