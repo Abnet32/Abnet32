@@ -1,10 +1,24 @@
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250"  />
+  
+
+
+
+<h3 align="center">
+  Welcome to Abnet Mekonen's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F7C81A&width=435&lines=Hello%2C+I'm+Abnet+Mekonen++;Full-satck+Developer;Software+Enginner;Constant+Learner)](https://git.io/typing-svg)
+</p> 
+
 - 👋 Hi, I’m ✨ Abnet Mekonen ✨
-- 👀 I’m interested in Fullstack development and AI engineering..
 - 🌱 I’m Fullstack web developer..
+- 👀 I’m interested in Fullstack development and AI engineering..
 - 💬 Ask me about my experience with Html, css, JavaScript, React, Node.js, Express.js, MySQL..
 - ⚡ Fact: I love descipline and hard work.
-- 💞️ I’m looking to collaborate on many projects to develop my skill and to maximize my networking scope  ...
+- 👨‍💻 As a software engineer, I'm constantly learning and exploring new technologies to improve my skills.
 - 📫 if you are looking to reach me just contact me on whatsapp or linkedin you get in my profile...
 ### 💻 My Tech Stack
 
