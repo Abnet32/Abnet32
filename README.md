@@ -16,14 +16,15 @@
 
      ### 👨‍💻 About Me
 <p align="center">
- 
+ <img align="right" width=250px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 - 👋 Hi, I’m ✨ Abnet Mekonen ✨
 - 🌱 I’m Fullstack web developer..
 - 👀 I’m interested in Fullstack development and AI engineering..
-- 💬 Ask me about my experience with Html, css, JavaScript, Typescript, React, Node.js, python, Express.js, MySQL, MongoDB..
+- 💬 Ask me about my experience with Html, css, JavaScript, React, Node.js, Express.js, MySQL, MongoDB..
 - ⚡ Fact: I love descipline and hard work.
+- 📫 How to reach me **abnet-mekonen.netlify.app**
 - 👨‍💻 As a software engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 📫 if you are looking to reach me just contact me on whatsapp or linkedin you get in my profile...
 </p>
 
 ---
@@ -47,5 +48,12 @@
 
 </p>
 
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/abnet-mekonen?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuZpf7phXRFK803OKJSHodQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abnet" height="30" width="40" /></a>
+<a href="https://wa.link/eqoyq8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="abnet" height="30" width="40" /></a>
+</p>
   
 
