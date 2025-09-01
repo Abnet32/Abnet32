@@ -57,5 +57,20 @@
 <a href="https://www.linkedin.com/in/abnet-mekonen?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuZpf7phXRFK803OKJSHodQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abnet" height="30" width="40" /></a>
 <a href="https://wa.link/eqoyq8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="abnet" height="30" width="40" /></a>
 </p>
-  
+
+---
+<!--
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abnet32&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnet32&layout=compact&theme=dark" alt="Top Langs" />
+</p>
+
+---
+-->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=2F81F7&center=true&vCenter=true&width=500&lines=Built+with+💙+using+Markdown;Let's+connect+and+create+awesome+things+together!" alt="Typing SVG" />
+</p>
 
