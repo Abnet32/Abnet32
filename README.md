@@ -3,10 +3,11 @@
 
 ---
 <h3 align="center">
-  Welcome to Abnet Mekonen's profile!
+  ✨ Welcome to Abnet Mekonen's profile! ✨
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=josefin+sans&weight=900&pause=1000&color=F3F007E9&background=1EB8DC00&width=450&height=75&lines=Hello%2CI'm+Abnet+Mekonen;Full-stack+Developer;Software+Engineer;Constant+Learner" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=josefin+sans&weight=900&pause=1000&color=F3F007E9&background=1EB8DC00&width=450&height=75&lines=Hello%2CI'm+Abnet+Mekonen;Full-stack+Developer;Software+Engineer;Constant+Learner" alt="Typing SVG" />
+  </a>
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
