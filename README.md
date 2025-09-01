@@ -71,6 +71,6 @@
 ---
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=2F81F7&center=true&vCenter=true&width=500&lines=Built+with+💙+using+Markdown;Let's+connect+and+create+awesome+things+together!" alt="Typing SVG" />
+  <b>✨ Built with 💙 using Markdown. Let's connect and create awesome things together! ✨</b>
 </p>
 
