@@ -30,6 +30,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abnet324&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5BCDEC&sideLabels=5BCDEC" alt="GitHub Streak" />
+</div>
+
+---
+
 ### 💻 My Tech Stack
 <p >
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/> &nbsp;&nbsp;
@@ -53,24 +59,33 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Abnet32">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abnet32&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117" alt="Abnet's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnet32&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="Most Used Languages"/>
+  </a>
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abnet&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🔗 Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/abnet-mekonen?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuZpf7phXRFK803OKJSHodQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abnet" height="30" width="40" /></a>
 <a href="https://wa.link/eqoyq8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="abnet" height="30" width="40" /></a>
 </p>
 
 ---
-<!--
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abnet32&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnet32&layout=compact&theme=dark" alt="Top Langs" />
-</p>
-
----
--->
 <p align="center">
   <b>✨ Built with 💙 using Markdown. Let's connect and create awesome things together! ✨</b>
 </p>
