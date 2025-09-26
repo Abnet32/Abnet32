@@ -1,4 +1,4 @@
- <!-- <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250"  /> -->
+![Profile views](https://komarev.com/ghpvc/?username=Abnet32&label=Profile%20views&color=0e75b6&style=flat)
    
 
 ---
