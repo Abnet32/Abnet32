@@ -1,6 +1,10 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Abnet32&label=Profile%20views&color=0e75b6&style=flat)
    
-
+<p align="center">
+  <a href="https://abnet-resume.vercel.app" target="_blank">
+    <img src="https://i.postimg.cc/CxNPw1Df/Screenshot-2025-10-03-080834.png" alt="Evangadi Forum Banner" width="850"/>
+  </a>
+</p>
 ---
 <h3 align="center">
   ✨ Welcome to Abnet Mekonen's profile! ✨
