@@ -24,7 +24,7 @@
 - 👀 I’m interested in Fullstack development and AI engineering..
 - 💬 Ask me about my experience with Html, Css, JavaScript, React, Node.js, Express.js, MySQL, MongoDB..
 - ⚡ Fact: I love descipline and hard work.
-- 📫 How to know me [abnet-resume.vercel.app](https://abnet-resume.vercel.app/)
+- 📫 How to know me [abnet-dev.vercel.app](https://abnet-dev.vercel.app/)
 - 👨‍💻 As a software engineer, I'm constantly learning and exploring new technologies to improve my skills.
 </p>
 
