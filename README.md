@@ -59,12 +59,12 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Abnet32">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abnet32&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117" alt="Abnet's GitHub Stats"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnet32&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="Most Used Languages"/>
   </a>
-</div>
+</div> -->
 
 ---
 
@@ -85,6 +85,6 @@
 ---
 
 <p align="center">
-  <b>✨ Built with 💙 using Markdown. Let's connect and create awesome things together! ✨</b>
+  <b>✨ Built with 💙 using Abnet Let's connect and create awesome things together! ✨</b>
 </p>
 
