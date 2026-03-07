@@ -57,25 +57,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- <div align="center">
-  <a href="https://github.com/Abnet32">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abnet32&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117" alt="Abnet's GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abnet32&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117" alt="Most Used Languages"/>
-  </a>
-</div> -->
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abnet32&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%" alt="Contribution Graph"/>
-</div>
-
----
-
 ## 🔗 Connect With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/abnet-mekonen?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuZpf7phXRFK803OKJSHodQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abnet" height="30" width="40" /></a>
