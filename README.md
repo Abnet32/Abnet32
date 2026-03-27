@@ -35,7 +35,8 @@
 
 ## 🛠️ Tech Stack & Languages
 
-<p align="center">
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" title="Tailwind" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -48,9 +49,8 @@
 
 ---
 
-## ✨ Final Note
+## ✨ CTA
 
 <p align="center" style="font-family: 'Outfit', sans-serif;">
-  <b>Building, learning, and growing every day 🚀</b><br/>
-  <i>Let’s connect and create something amazing together!</i>
+  Built with 💙 using Markdown. Let's connect and create awesome things together!
 </p>
