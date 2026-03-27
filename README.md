@@ -49,8 +49,6 @@
 
 ---
 
-## ✨ CTA
-
 <p align="center" style="font-family: 'Outfit', sans-serif;">
   Built with 💙 using Markdown. Let's connect and create awesome things together!
 </p>
