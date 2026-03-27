@@ -16,7 +16,7 @@
 
 - 👋 Hi, I'm **Abnet Mekonen**  
 - 🌱 Passionate **Full-Stack Developer** building real-world web apps  
-- 🤖 Exploring **AI Engineering & modern technologies**  
+- 🤖 Exploring **AI & modern technologies**  
 - 💬 Ask me about: `HTML` • `CSS` • `JavaScript` • `TypeScript` • `React` • `Next.js` • `Node.js` • `Express` • `MySQL` • `MongoDB`  
 - 🌐 Portfolio: [abnet-dev.vercel.app](https://abnet-dev.vercel.app/)  
 - 🚀 Constantly learning and leveling up my skills  
