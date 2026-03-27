@@ -1,71 +1,56 @@
-![Profile views](https://komarev.com/ghpvc/?username=Abnet32&label=Profile%20views&color=0e75b6&style=flat)
-   
----
+![Profile Views](https://komarev.com/ghpvc/?username=Abnet32&label=Profile%20views&color=0e75b6&style=flat)
 
-<h3 align="center">
-  ✨ Welcome to Abnet Mekonen's profile! ✨
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
- 
-  <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=josefin+sans&weight=900&pause=1000&color=F3F007E9&background=1EB8DC00&width=450&height=75&lines=Hello%2CI'm+Abnet+Mekonen;Full-stack+Developer;Software+Engineer;Constant+Learner" alt="Typing SVG" />
-  </a>
-</h3>
+<h1 align="center" style="font-family: 'Outfit', sans-serif;">
+  Hey there 👋, I'm Abnet Mekonen
+</h1>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-
-
----
-
-     ### 👨‍💻 About Me
 <p align="center">
- <img align="right" width=250px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-- 👋 Hi, I’m ✨ Abnet Mekonen ✨
-- 🌱 I’m Fullstack web developer..
-- 👀 I’m interested in Fullstack development and AI engineering..
-- 💬 Ask me about my experience with Html, Css, JavaScript, React, Node.js, Express.js, MySQL, MongoDB..
-- ⚡ Fact: I love descipline and hard work.
-- 📫 How to know me [abnet-dev.vercel.app](https://abnet-dev.vercel.app/)
-- 👨‍💻 As a software engineer, I'm constantly learning and exploring new technologies to improve my skills.
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&pause=1000&color=F3F007&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Software+Engineer;AI+Enthusiast;Always+Learning" />
 </p>
 
 ---
 
+## 👨‍💻 About Me
+
+<img align="right" width="250" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+- 👋 Hi, I'm **Abnet Mekonen**  
+- 🌱 Passionate **Full-Stack Developer** building real-world web apps  
+- 🤖 Exploring **AI Engineering & modern technologies**  
+- 💬 Ask me about: `HTML` • `CSS` • `JavaScript` • `TypeScript` • `React` • `Next.js` • `Node.js` • `Express` • `MySQL` • `MongoDB`  
+- 🌐 Portfolio: [abnet-dev.vercel.app](https://abnet-dev.vercel.app/)  
+- 🚀 Constantly learning and leveling up my skills  
+
+---
+
+## 🔥 GitHub Stats & Activity
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abnet32&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5BCDEC&sideLabels=5BCDEC" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Abnet32&theme=tokyonight&hide_border=true" height="140" />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abnet32&theme=react-dark&area=true&hide_border=true&custom_title=GitHub+Contribution+Graph" />
 </div>
 
 ---
 
-### 💻 My Tech Stack
-<p >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50"/> &nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/> &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> &nbsp;&nbsp;
-   
-
-</p>
-
----
-
-## 🔗 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/abnet-mekonen?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuZpf7phXRFK803OKJSHodQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abnet" height="30" width="40" /></a>
-<a href="https://wa.link/eqoyq8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="abnet" height="30" width="40" /></a>
-</p>
-
----
+## 🛠️ Tech Stack & Languages
 
 <p align="center">
-  <b>✨ Built with 💙 using Abnet Let's connect and create awesome things together! ✨</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" title="Next.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB" />
 </p>
 
+---
+
+## ✨ Final Note
+
+<p align="center" style="font-family: 'Outfit', sans-serif;">
+  <b>Building, learning, and growing every day 🚀</b><br/>
+  <i>Let’s connect and create something amazing together!</i>
+</p>
