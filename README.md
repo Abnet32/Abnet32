@@ -18,7 +18,7 @@
 - 🌱 Passionate **Full-Stack Developer** building real-world web apps  
 - 🤖 Exploring **AI & modern technologies**  
 - 💬 Ask me about: `HTML` • `CSS` • `JavaScript` • `TypeScript` • `React` • `Next.js` • `Node.js` • `Express` • `MySQL` • `MongoDB`  
-- 🌐 Portfolio: [abnet-dev.vercel.app](https://abnet-dev.vercel.app/)  
+- 🌐 Portfolio: [abnet-dev.vercel.app](https://abinet.me)  
 - 🚀 Constantly learning and leveling up my skills  
 
 ---
