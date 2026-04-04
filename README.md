@@ -29,13 +29,13 @@
 
   <table width="95%">
     <tr>
-      <td width="30%" align="center">
+      <td width="27%" align="center">
         <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abnet32&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
       </td>
-      <td width="40%" align="center">
+      <td width="36%" align="center">
         <img src="https://streak-stats.demolab.com?user=Abnet32&theme=tokyonight&hide_border=true" width="100%" />
       </td>
-      <td width="30%" align="center">
+      <td width="34%" align="center">
         <img src="https://github-readme-stats-fast.vercel.app/api?username=Abnet32&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
       </td>
     </tr>
