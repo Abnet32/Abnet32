@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&pause=1000&color=F3F007&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Software+Engineer;Always+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Software+Engineer;Always+Learning" />
 </p>
 
 ---
@@ -26,16 +26,25 @@
 ## 🔥 GitHub Stats & Activity
 
 <div align="center">
-<div align="center">
 
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abnet32&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
+  <table width="95%">
+    <tr>
+      <td width="30%" align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abnet32&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+      </td>
+      <td width="40%" align="center">
+        <img src="https://streak-stats.demolab.com?user=Abnet32&theme=tokyonight&hide_border=true" width="100%" />
+      </td>
+      <td width="30%" align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Abnet32&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+      </td>
+    </tr>
+  </table>
 
-  <img src="https://streak-stats.demolab.com?user=Abnet32&theme=tokyonight&hide_border=true" height="140" />
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=Abnet32&show_icons=true&theme=tokyonight&hide_border=true" height="140"/>
+  <br/><br/>
 
-
-</div>  <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abnet32&theme=react-dark&area=true&hide_border=true&custom_title=GitHub+Contribution+Graph" />
+
 </div>
 
 ---
