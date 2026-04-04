@@ -26,8 +26,15 @@
 ## 🔥 GitHub Stats & Activity
 
 <div align="center">
+<div align="center">
+
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abnet32&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
+
   <img src="https://streak-stats.demolab.com?user=Abnet32&theme=tokyonight&hide_border=true" height="140" />
-  <br/><br/>
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Abnet32&show_icons=true&theme=tokyonight&hide_border=true" height="140"/>
+
+
+</div>  <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abnet32&theme=react-dark&area=true&hide_border=true&custom_title=GitHub+Contribution+Graph" />
 </div>
 
