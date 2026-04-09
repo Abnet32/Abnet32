@@ -1,5 +1,11 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Abnet32&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abnet32&style=flat-square&color=13335c" alt="Profile Views" style="margin: 10px;" />
+  <a href="https://wakatime.com/@dcd08b4d-15df-4039-89ac-0da8a02527b9">
+    <img src="https://wakatime.com/badge/user/dcd08b4d-15df-4039-89ac-0da8a02527b9.svg?style=flat-square&color=13335c" alt="WakaTime Profile" style="margin: 10px;" />
+  </a>
 
+---
+<div>
 <h1 align="center" style="font-family: 'Outfit', sans-serif;">
   Hey there 👋, I'm Abnet Mekonen
 </h1>
