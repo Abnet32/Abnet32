@@ -43,11 +43,6 @@
       </td>
     </tr>
   </table>
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abnet32&theme=react-dark&area=true&hide_border=true&custom_title=GitHub+Contribution+Graph" />
-
 </div>
 
 ---
